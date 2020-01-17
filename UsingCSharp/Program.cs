@@ -39,7 +39,6 @@ namespace UsingCSharp
             Console.WriteLine("After " + p.MonthsToSave + " months you'll reach your goal is you save " + p.UsualCurrency + " " + p.GetMyAmount().ToString() + " every month!");
             Console.WriteLine("--------------------------");
             Console.ReadKey();
-
         }
     }
 }
